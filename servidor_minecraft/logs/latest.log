@@ -1,0 +1,487 @@
+[16Jan2026 05:19:08.030] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[16Jan2026 05:19:08.033] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.29 by Ubuntu
+[16Jan2026 05:19:08.510] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[16Jan2026 05:19:08.608] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/mcserver14/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[16Jan2026 05:19:09.553] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.727] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.745] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.757] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.769] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.778] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.787] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.797] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.806] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.814] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.824] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.836] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.845] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.853] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.858] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.865] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.876] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.880] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.886] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.892] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.896] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.910] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.918] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.928] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.937] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.944] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.950] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.956] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.968] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:09.978] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Jan2026 05:19:10.268] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
+[16Jan2026 05:19:12.563] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
+[16Jan2026 05:19:12.572] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[16Jan2026 05:19:12.939] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
+[16Jan2026 05:19:13.210] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching LivingEntity#blockUsingShield
+[16Jan2026 05:19:13.318] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching LivingEntity#applyPotionDamageCalculations
+[16Jan2026 05:19:14.355] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#getEnchantmentModifierDamage
+[16Jan2026 05:19:14.484] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#getModifierForCreature
+[16Jan2026 05:19:14.634] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#applyThornEnchantments
+[16Jan2026 05:19:14.749] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#applyArthropodEnchantments
+[16Jan2026 05:19:14.832] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching buildEnchantmentList for the Enchantability affix.
+[16Jan2026 05:19:14.877] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#getEnchantmentDatas
+[16Jan2026 05:19:14.984] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ItemStack#onItemUse
+[16Jan2026 05:19:15.290] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching TemptGoal#isTempting
+[16Jan2026 05:19:15.616] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching RepairContainer#updateRepairOutput
+[16Jan2026 05:19:15.665] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Successfully removed the anvil level cap.
+[16Jan2026 05:19:15.806] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching RepairContainer#updateRepairOutput
+[16Jan2026 05:19:15.918] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Successfully allowed nbt-unbreakable items in the anvil.
+[16Jan2026 05:19:15.983] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/inventory/container/RepairContainer
+[16Jan2026 05:19:18.219] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
+[16Jan2026 05:19:18.241] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching LivingEntity#blockUsingShield
+[16Jan2026 05:19:18.245] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching LivingEntity#applyPotionDamageCalculations
+[16Jan2026 05:19:18.776] [main/INFO] [FerriteCore - class definer/]: Using Java 9+ class definer
+[16Jan2026 05:19:19.139] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching SharedMonsterAttributes#readAttributeModifier
+[16Jan2026 05:19:19.584] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching RepairContainer#updateRepairOutput
+[16Jan2026 05:19:19.598] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Successfully removed the anvil level cap.
+[16Jan2026 05:19:19.602] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching RepairContainer#updateRepairOutput
+[16Jan2026 05:19:19.619] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Successfully allowed nbt-unbreakable items in the anvil.
+[16Jan2026 05:19:19.623] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/inventory/container/RepairContainer
+[16Jan2026 05:19:20.395] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CampfireTileEntity#findMatchingRecipe
+[16Jan2026 05:19:21.876] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching TemptGoal#isTempting
+[16Jan2026 05:19:22.302] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ItemStack#onItemUse
+[16Jan2026 05:19:23.665] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching ItemArrow#isInfinite
+[16Jan2026 05:19:23.965] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/item/EnchantedBookItem
+[16Jan2026 05:19:24.128] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CrossbowItem#onItemRightClick
+[16Jan2026 05:19:24.290] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CrossbowItem#fireProjectile
+[16Jan2026 05:19:24.495] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingBobberEntity#catchingFish
+[16Jan2026 05:19:24.930] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/loot/functions/EnchantRandomly
+[16Jan2026 05:19:26.633] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching DataPackRegistries#<init>
+[16Jan2026 05:19:27.355] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LootTableManager#apply
+[16Jan2026 05:19:27.861] [modloading-worker-1/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
+[16Jan2026 05:19:28.896] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[16Jan2026 05:19:28.898] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[16Jan2026 05:19:29.479] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching vazkii/quark/content/tools/module/AncientTomesModule
+[16Jan2026 05:19:29.529] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching vazkii/quark/content/tools/item/AncientTomeItem
+[16Jan2026 05:19:31.971] [modloading-worker-0/INFO] [expandability/]: ExpandAbility here, who dis?
+[16Jan2026 05:19:33.150] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:33.151] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `chipped_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:33.152] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `damaged_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:33.227] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `enchanting_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:33.237] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `enchanting_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:33.239] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `spawner`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:33.240] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `cactus`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:33.240] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `cactus`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:33.241] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `sugar_cane`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:33.241] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `sugar_cane`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:33.242] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `bamboo`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:33.242] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `bamboo`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:33.243] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `fletching_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:33.243] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `fletching_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:33.778] [main/INFO] [patchouli/]: Loaded book jsons on Thread[main,5,main] in 127 ms
+[16Jan2026 05:19:33.923] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shears`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:33.924] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:33.924] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `chipped_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:33.924] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `damaged_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:33.936] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `spawner`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:34.293] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `enchanting_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:34.336] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `bane_of_arthropods`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:34.337] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `smite`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:34.338] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `sharpness`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:34.345] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:34.345] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `fire_protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:34.345] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `blast_protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:34.345] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `projectile_protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:34.345] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `feather_falling`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[16Jan2026 05:19:35.342] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:the_end has been registered twice for the same name minecraft:the_end.
+[16Jan2026 05:19:35.347] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:end_barrens has been registered twice for the same name minecraft:end_barrens.
+[16Jan2026 05:19:35.347] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:small_end_islands has been registered twice for the same name minecraft:small_end_islands.
+[16Jan2026 05:19:35.348] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:end_midlands has been registered twice for the same name minecraft:end_midlands.
+[16Jan2026 05:19:35.349] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:worldgen/biome: The object minecraft:end_highlands has been registered twice for the same name minecraft:end_highlands.
+[16Jan2026 05:19:35.642] [main/INFO] [ModdingLegacy/structure_gel/Compat/]: Checking for biome dictionary registry methods in other mods.
+[16Jan2026 05:19:36.064] [main/INFO] [quark/]: Loading Module Chain Linkage
+[16Jan2026 05:19:36.069] [main/INFO] [quark/]: Loading Module Chains Connect Blocks
+[16Jan2026 05:19:36.069] [main/INFO] [quark/]: Loading Module Chute
+[16Jan2026 05:19:36.069] [main/INFO] [quark/]: Loading Module Color Slime
+[16Jan2026 05:19:36.070] [main/INFO] [quark/]: Loading Module Dispensers Place Blocks
+[16Jan2026 05:19:36.070] [main/INFO] [quark/]: Loading Module Ender Watcher
+[16Jan2026 05:19:36.070] [main/INFO] [quark/]: Loading Module Endermites Form Shulkers
+[16Jan2026 05:19:36.072] [main/INFO] [quark/]: Loading Module Feeding Trough
+[16Jan2026 05:19:36.077] [main/INFO] [quark/]: Loading Module Gravisand
+[16Jan2026 05:19:36.077] [main/INFO] [quark/]: Loading Module Iron Rod
+[16Jan2026 05:19:36.077] [main/INFO] [quark/]: Loading Module Jukebox Automation
+[16Jan2026 05:19:36.078] [main/INFO] [quark/]: Loading Module Metal Buttons
+[16Jan2026 05:19:36.079] [main/INFO] [quark/]: Loading Module Obsidian Plate
+[16Jan2026 05:19:36.081] [main/INFO] [quark/]: Loading Module Pistons Move Tile Entities
+[16Jan2026 05:19:36.082] [main/INFO] [quark/]: Loading Module Redstone Circuit
+[16Jan2026 05:19:36.083] [main/INFO] [quark/]: Loading Module Weather Sensor
+[16Jan2026 05:19:36.085] [main/INFO] [quark/]: Loading Module Bamboo Mat
+[16Jan2026 05:19:36.085] [main/INFO] [quark/]: Loading Module Burn Vines
+[16Jan2026 05:19:36.086] [main/INFO] [quark/]: Loading Module Celebratory Lamps
+[16Jan2026 05:19:36.086] [main/INFO] [quark/]: Loading Module Cobblestone Bricks
+[16Jan2026 05:19:36.086] [main/INFO] [quark/]: Loading Module Compressed Blocks
+[16Jan2026 05:19:36.087] [main/INFO] [quark/]: Loading Module Duskbound Blocks
+[16Jan2026 05:19:36.087] [main/INFO] [quark/]: Loading Module Framed Glass
+[16Jan2026 05:19:36.087] [main/INFO] [quark/]: Loading Module Gold Bars
+[16Jan2026 05:19:36.088] [main/INFO] [quark/]: Loading Module Grate
+[16Jan2026 05:19:36.090] [main/INFO] [quark/]: Loading Module Hedges
+[16Jan2026 05:19:36.090] [main/INFO] [quark/]: Loading Module Iron Plates
+[16Jan2026 05:19:36.090] [main/INFO] [quark/]: Loading Module Item Frames
+[16Jan2026 05:19:36.090] [main/INFO] [quark/]: Loading Module Leaf Carpet
+[16Jan2026 05:19:36.090] [main/INFO] [quark/]: Loading Module Lit Lamp
+[16Jan2026 05:19:36.090] [main/INFO] [quark/]: Loading Module Midori
+[16Jan2026 05:19:36.091] [main/INFO] [quark/]: Loading Module More Brick Types
+[16Jan2026 05:19:36.091] [main/INFO] [quark/]: Loading Module More Potted Plants
+[16Jan2026 05:19:36.091] [main/INFO] [quark/]: Loading Module More Stone Variants
+[16Jan2026 05:19:36.091] [main/INFO] [quark/]: Loading Module Nether Brick Fence Gate
+[16Jan2026 05:19:36.091] [main/INFO] [quark/]: Loading Module Paper Decor
+[16Jan2026 05:19:36.092] [main/INFO] [quark/]: Loading Module Quilted Wool
+[16Jan2026 05:19:36.092] [main/INFO] [quark/]: Loading Module Rope
+[16Jan2026 05:19:36.092] [main/INFO] [quark/]: Loading Module Shallow Dirt
+[16Jan2026 05:19:36.093] [main/INFO] [quark/]: Loading Module Shingles
+[16Jan2026 05:19:36.096] [main/INFO] [quark/]: Loading Module Soul Sandstone
+[16Jan2026 05:19:36.096] [main/INFO] [quark/]: Loading Module Stained Planks
+[16Jan2026 05:19:36.096] [main/INFO] [quark/]: Loading Module Stools
+[16Jan2026 05:19:36.097] [main/INFO] [quark/]: Loading Module Sturdy Stone
+[16Jan2026 05:19:36.097] [main/INFO] [quark/]: Loading Module Tallow And Candles
+[16Jan2026 05:19:36.098] [main/INFO] [quark/]: Loading Module Thatch
+[16Jan2026 05:19:36.098] [main/INFO] [quark/]: Loading Module Tie Leads To Fences
+[16Jan2026 05:19:36.101] [main/INFO] [quark/]: Loading Module Turf
+[16Jan2026 05:19:36.101] [main/INFO] [quark/]: Loading Module Variant Bookshelves
+[16Jan2026 05:19:36.102] [main/INFO] [quark/]: Loading Module Variant Chests
+[16Jan2026 05:19:36.106] [main/INFO] [quark/]: Loading Module Variant Ladders
+[16Jan2026 05:19:36.107] [main/INFO] [quark/]: Loading Module Vertical Planks
+[16Jan2026 05:19:36.107] [main/INFO] [quark/]: Loading Module Vertical Slabs
+[16Jan2026 05:19:36.107] [main/INFO] [quark/]: Loading Module Wooden Posts
+[16Jan2026 05:19:36.107] [main/INFO] [quark/]: Loading Module Chests In Boats
+[16Jan2026 05:19:36.108] [main/INFO] [quark/]: Loading Module Easy Transfering
+[16Jan2026 05:19:36.111] [main/INFO] [quark/]: Loading Module Hotbar Changer
+[16Jan2026 05:19:36.111] [main/INFO] [quark/]: Loading Module Inventory Sorting
+[16Jan2026 05:19:36.111] [main/INFO] [quark/]: Loading Module Item Sharing
+[16Jan2026 05:19:36.111] [main/INFO] [quark/]: Loading Module Right Click Armor
+[16Jan2026 05:19:36.112] [main/INFO] [quark/]: Loading Module Shulker Box Right Click
+[16Jan2026 05:19:36.113] [main/INFO] [quark/]: Loading Module Endermosh Music Disc
+[16Jan2026 05:19:36.113] [main/INFO] [quark/]: Loading Module Abacus
+[16Jan2026 05:19:36.116] [main/INFO] [quark/]: Loading Module Ambient Discs
+[16Jan2026 05:19:36.116] [main/INFO] [quark/]: Loading Module Ancient Tomes
+[16Jan2026 05:19:36.117] [main/INFO] [quark/]: Loading Module Bottled Cloud
+[16Jan2026 05:19:36.120] [main/INFO] [quark/]: Loading Module Camera
+[16Jan2026 05:19:36.121] [main/INFO] [quark/]: Loading Module Color Runes
+[16Jan2026 05:19:36.122] [main/INFO] [quark/]: Loading Module Pathfinder Maps
+[16Jan2026 05:19:36.122] [main/INFO] [quark/]: Loading Module Pickarang
+[16Jan2026 05:19:36.124] [main/INFO] [quark/]: Loading Module Seed Pouch
+[16Jan2026 05:19:36.129] [main/INFO] [quark/]: Loading Module Slime In A Bucket
+[16Jan2026 05:19:36.131] [main/INFO] [quark/]: Loading Module Trowel
+[16Jan2026 05:19:36.133] [main/INFO] [quark/]: Loading Module Skull Pikes
+[16Jan2026 05:19:36.135] [main/INFO] [quark/]: Loading Module Armed Armor Stands
+[16Jan2026 05:19:36.136] [main/INFO] [quark/]: Loading Module Automatic Recipe Unlock
+[16Jan2026 05:19:36.141] [main/INFO] [quark/]: Loading Module Axe Leaf Harvesting
+[16Jan2026 05:19:36.142] [main/INFO] [quark/]: Loading Module Better Elytra Rocket
+[16Jan2026 05:19:36.146] [main/INFO] [quark/]: Loading Module Campfires Boost Elytra
+[16Jan2026 05:19:36.147] [main/INFO] [quark/]: Loading Module Compasses Work Everywhere
+[16Jan2026 05:19:36.152] [main/INFO] [quark/]: Loading Module Dirt To Path
+[16Jan2026 05:19:36.153] [main/INFO] [quark/]: Loading Module Double Door Opening
+[16Jan2026 05:19:36.154] [main/INFO] [quark/]: Loading Module Dragon Scales
+[16Jan2026 05:19:36.154] [main/INFO] [quark/]: Loading Module Emotes
+[16Jan2026 05:19:36.158] [main/INFO] [quark/]: Loading Module Enhanced Ladders
+[16Jan2026 05:19:36.159] [main/INFO] [quark/]: Loading Module Glass Shard
+[16Jan2026 05:19:36.164] [main/INFO] [quark/]: Loading Module Hoe Harvesting
+[16Jan2026 05:19:36.164] [main/INFO] [quark/]: Loading Module Improved Sleeping
+[16Jan2026 05:19:36.165] [main/INFO] [quark/]: Loading Module Infinity Bucket
+[16Jan2026 05:19:36.171] [main/INFO] [quark/]: Loading Module Lava Bucket As Trash
+[16Jan2026 05:19:36.174] [main/INFO] [quark/]: Loading Module Lock Rotation
+[16Jan2026 05:19:36.181] [main/INFO] [quark/]: Loading Module More Banner Layers
+[16Jan2026 05:19:36.181] [main/INFO] [quark/]: Loading Module Note Block Mob Sounds
+[16Jan2026 05:19:36.188] [main/INFO] [quark/]: Loading Module Pat The Dogs
+[16Jan2026 05:19:36.189] [main/INFO] [quark/]: Loading Module Poison Potato Usage
+[16Jan2026 05:19:36.191] [main/INFO] [quark/]: Loading Module Reacharound Placing
+[16Jan2026 05:19:36.191] [main/INFO] [quark/]: Loading Module Replace Scaffolding
+[16Jan2026 05:19:36.192] [main/INFO] [quark/]: Loading Module Sign Editing
+[16Jan2026 05:19:36.193] [main/INFO] [quark/]: Loading Module Simple Harvest
+[16Jan2026 05:19:36.194] [main/INFO] [quark/]: Loading Module Snow Golem Player Heads
+[16Jan2026 05:19:36.195] [main/INFO] [quark/]: Loading Module Springy Slime
+[16Jan2026 05:19:36.196] [main/INFO] [quark/]: Loading Module Utility Recipes
+[16Jan2026 05:19:36.197] [main/INFO] [quark/]: Loading Module Villagers Follow Emeralds
+[16Jan2026 05:19:36.198] [main/INFO] [quark/]: Loading Module Big Dungeon
+[16Jan2026 05:19:36.200] [main/INFO] [quark/]: Loading Module Big Stone Clusters
+[16Jan2026 05:19:36.201] [main/INFO] [quark/]: Loading Module Biotite
+[16Jan2026 05:19:36.202] [main/INFO] [quark/]: Loading Module Blossom Trees
+[16Jan2026 05:19:36.202] [main/INFO] [quark/]: Loading Module Cave Roots
+[16Jan2026 05:19:36.203] [main/INFO] [quark/]: Loading Module Chorus Vegetation
+[16Jan2026 05:19:36.203] [main/INFO] [quark/]: Loading Module Crevices
+[16Jan2026 05:19:36.203] [main/INFO] [quark/]: Loading Module Deepslate
+[16Jan2026 05:19:36.203] [main/INFO] [quark/]: Loading Module Fairy Rings
+[16Jan2026 05:19:36.204] [main/INFO] [quark/]: Loading Module Mega Caves
+[16Jan2026 05:19:36.204] [main/INFO] [quark/]: Loading Module Monster Box
+[16Jan2026 05:19:36.205] [main/INFO] [quark/]: Loading Module Nether Obsidian Spikes
+[16Jan2026 05:19:36.205] [main/INFO] [quark/]: Loading Module New Stone Types
+[16Jan2026 05:19:36.206] [main/INFO] [quark/]: Loading Module Realistic World Gen
+[16Jan2026 05:19:36.207] [main/INFO] [quark/]: Loading Module Speleothems
+[16Jan2026 05:19:36.207] [main/INFO] [quark/]: Loading Module Spiral Spires
+[16Jan2026 05:19:36.209] [main/INFO] [quark/]: Loading Module Underground Clay
+[16Jan2026 05:19:36.209] [main/INFO] [quark/]: Loading Module Brimstone Underground Biome
+[16Jan2026 05:19:36.210] [main/INFO] [quark/]: Loading Module Cave Crystal Underground Biome
+[16Jan2026 05:19:36.210] [main/INFO] [quark/]: Loading Module Elder Prismarine Underground Biome
+[16Jan2026 05:19:36.211] [main/INFO] [quark/]: Loading Module Glowshroom Underground Biome
+[16Jan2026 05:19:36.211] [main/INFO] [quark/]: Loading Module Lush Underground Biome
+[16Jan2026 05:19:36.212] [main/INFO] [quark/]: Loading Module Overgrown Underground Biome
+[16Jan2026 05:19:36.212] [main/INFO] [quark/]: Loading Module Permafrost Underground Biome
+[16Jan2026 05:19:36.212] [main/INFO] [quark/]: Loading Module Sandstone Underground Biome
+[16Jan2026 05:19:36.213] [main/INFO] [quark/]: Loading Module Slime Underground Biome
+[16Jan2026 05:19:36.213] [main/INFO] [quark/]: Loading Module Spider Nest Underground Biome
+[16Jan2026 05:19:36.215] [main/INFO] [quark/]: Loading Module Crabs
+[16Jan2026 05:19:36.216] [main/INFO] [quark/]: Loading Module Forgotten
+[16Jan2026 05:19:36.217] [main/INFO] [quark/]: Loading Module Foxhound
+[16Jan2026 05:19:36.219] [main/INFO] [quark/]: Loading Module Frogs
+[16Jan2026 05:19:36.220] [main/INFO] [quark/]: Loading Module Stonelings
+[16Jan2026 05:19:36.222] [main/INFO] [quark/]: Loading Module Toretoise
+[16Jan2026 05:19:36.224] [main/INFO] [quark/]: Loading Module Wraith
+[16Jan2026 05:19:36.225] [main/INFO] [quark/]: Loading Module Auto Walk Keybind
+[16Jan2026 05:19:36.225] [main/INFO] [quark/]: Loading Module Back Button Keybind
+[16Jan2026 05:19:36.226] [main/INFO] [quark/]: Loading Module Chest Searching
+[16Jan2026 05:19:36.228] [main/INFO] [quark/]: Loading Module Greener Grass
+[16Jan2026 05:19:36.228] [main/INFO] [quark/]: Loading Module Improved Mount Hud
+[16Jan2026 05:19:36.228] [main/INFO] [quark/]: Loading Module Improved Tooltips
+[16Jan2026 05:19:36.228] [main/INFO] [quark/]: Loading Module Usage Ticker
+[16Jan2026 05:19:36.228] [main/INFO] [quark/]: Loading Module Variant Animal Textures
+[16Jan2026 05:19:36.228] [main/INFO] [quark/]: Loading Module Backpack
+[16Jan2026 05:19:36.228] [main/INFO] [quark/]: Loading Module Crate
+[16Jan2026 05:19:36.228] [main/INFO] [quark/]: Loading Module Magnets
+[16Jan2026 05:19:36.229] [main/INFO] [quark/]: Loading Module Matrix Enchanting
+[16Jan2026 05:19:36.229] [main/INFO] [quark/]: Loading Module Pipes
+[16Jan2026 05:19:36.229] [main/INFO] [quark/]: Loading Module Totem Of Holding
+[16Jan2026 05:19:36.229] [main/INFO] [quark/]: Loading Module Adjustable Chat
+[16Jan2026 05:19:36.229] [main/INFO] [quark/]: Loading Module Custom Underground Biome
+[16Jan2026 05:19:36.230] [main/INFO] [quark/]: Loading Module Game Nerfs
+[16Jan2026 05:19:36.230] [main/INFO] [quark/]: Loading Module Microcrafting Helper
+[16Jan2026 05:19:36.230] [main/INFO] [quark/]: Loading Module Narrator Readout
+[16Jan2026 05:19:36.230] [main/INFO] [quark/]: Loading Module Overlay Shader
+[16Jan2026 05:19:36.230] [main/INFO] [quark/]: Loading Module Pallet
+[16Jan2026 05:19:36.231] [main/INFO] [quark/]: Loading Module Shiba
+[16Jan2026 05:19:36.467] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[16Jan2026 05:19:36.481] [modloading-worker-0/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
+[16Jan2026 05:19:36.481] [modloading-worker-0/INFO] [Dungeon Crawl/]: minecraft:overworld
+[16Jan2026 05:19:36.562] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#getEnchantmentModifierDamage
+[16Jan2026 05:19:36.587] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#getModifierForCreature
+[16Jan2026 05:19:36.603] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#applyThornEnchantments
+[16Jan2026 05:19:36.627] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#applyArthropodEnchantments
+[16Jan2026 05:19:36.643] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching buildEnchantmentList for the Enchantability affix.
+[16Jan2026 05:19:36.661] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#getEnchantmentDatas
+[16Jan2026 05:19:36.671] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching vazkii/quark/content/tools/module/AncientTomesModule
+[16Jan2026 05:19:36.734] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.14/update.json
+[16Jan2026 05:19:36.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 4.9.6 Target: null
+[16Jan2026 05:19:36.807] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.16.5
+[16Jan2026 05:19:36.823] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:leash_knot_fake, use EntityAttributeCreationEvent instead.
+[16Jan2026 05:19:36.823] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:frog, use EntityAttributeCreationEvent instead.
+[16Jan2026 05:19:36.828] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:crab, use EntityAttributeCreationEvent instead.
+[16Jan2026 05:19:36.836] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:wraith, use EntityAttributeCreationEvent instead.
+[16Jan2026 05:19:36.844] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:toretoise, use EntityAttributeCreationEvent instead.
+[16Jan2026 05:19:36.913] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:foxhound, use EntityAttributeCreationEvent instead.
+[16Jan2026 05:19:36.922] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:forgotten, use EntityAttributeCreationEvent instead.
+[16Jan2026 05:19:36.938] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:wrapped, use EntityAttributeCreationEvent instead.
+[16Jan2026 05:19:36.958] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:shiba, use EntityAttributeCreationEvent instead.
+[16Jan2026 05:19:36.966] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for quark:stoneling, use EntityAttributeCreationEvent instead.
+[16Jan2026 05:19:37.239] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[16Jan2026 05:19:37.269] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:creeper_minion, use EntityAttributeCreationEvent instead.
+[16Jan2026 05:19:37.269] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:endersoul_clone, use EntityAttributeCreationEvent instead.
+[16Jan2026 05:19:37.270] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_creeper, use EntityAttributeCreationEvent instead.
+[16Jan2026 05:19:37.273] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_enderman, use EntityAttributeCreationEvent instead.
+[16Jan2026 05:19:37.274] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_skeleton, use EntityAttributeCreationEvent instead.
+[16Jan2026 05:19:37.274] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_snow_golem, use EntityAttributeCreationEvent instead.
+[16Jan2026 05:19:37.275] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:mutant_zombie, use EntityAttributeCreationEvent instead.
+[16Jan2026 05:19:37.276] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mutantbeasts:spider_pig, use EntityAttributeCreationEvent instead.
+[16Jan2026 05:19:37.290] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 6.0.0.28 Target: 6.0.0.28
+[16Jan2026 05:19:37.292] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[16Jan2026 05:19:37.356] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config.
+[16Jan2026 05:19:37.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[16Jan2026 05:19:37.797] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:empty_aurora_cave to structure_gel:[]
+[16Jan2026 05:19:37.799] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:megalake_grove to structure_gel:[]
+[16Jan2026 05:19:37.801] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:shadow_forest to structure_gel:[]
+[16Jan2026 05:19:37.801] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:lush_smaragdant_cave to structure_gel:[]
+[16Jan2026 05:19:37.801] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:sulphur_springs to structure_gel:[]
+[16Jan2026 05:19:37.801] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:blossoming_spires to structure_gel:[]
+[16Jan2026 05:19:37.802] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:painted_mountains to structure_gel:[]
+[16Jan2026 05:19:37.802] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:crystal_mountains to structure_gel:[]
+[16Jan2026 05:19:37.802] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:neon_oasis to structure_gel:[]
+[16Jan2026 05:19:37.802] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:empty_end_cave to structure_gel:[]
+[16Jan2026 05:19:37.802] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:foggy_mushroomland to structure_gel:[]
+[16Jan2026 05:19:37.802] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:umbrella_jungle to structure_gel:[]
+[16Jan2026 05:19:37.802] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:lush_aurora_cave to structure_gel:[]
+[16Jan2026 05:19:37.802] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:dragon_graveyards to structure_gel:[]
+[16Jan2026 05:19:37.802] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:empty_smaragdant_cave to structure_gel:[]
+[16Jan2026 05:19:37.802] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:dust_wastelands to structure_gel:[]
+[16Jan2026 05:19:37.802] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:glowing_grasslands to structure_gel:[]
+[16Jan2026 05:19:37.802] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:chorus_forest to structure_gel:[]
+[16Jan2026 05:19:37.803] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:dry_shrubland to structure_gel:[]
+[16Jan2026 05:19:37.803] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:ice_starfield to structure_gel:[]
+[16Jan2026 05:19:37.803] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:amber_land to structure_gel:[]
+[16Jan2026 05:19:37.803] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:megalake to structure_gel:[]
+[16Jan2026 05:19:37.803] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Registered betterendforge:lantern_woods to structure_gel:[]
+[16Jan2026 05:19:37.803] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:tower
+[16Jan2026 05:19:37.803] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:bigger_dungeon
+[16Jan2026 05:19:37.805] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:leviathan
+[16Jan2026 05:19:37.807] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:snowy_temple
+[16Jan2026 05:19:37.807] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:end_ruins
+[16Jan2026 05:19:37.808] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:warped_garden
+[16Jan2026 05:19:37.808] [modloading-worker-0/INFO] [ModdingLegacy/structure_gel/]: Reloading biome config for dungeons_plus:soul_prison
+[16Jan2026 05:19:45.902] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16Jan2026 05:19:46.694] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/command/impl/EnchantCommand
+[16Jan2026 05:19:47.145] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, random, level, subspecies] and [lm, mobevent, random, level, world] with inputs: [0, -123, 123]
+[16Jan2026 05:19:47.151] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, random, level, world] and [lm, mobevent, random, level, subspecies] with inputs: [0, -123, 123]
+[16Jan2026 05:19:47.158] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, start, mobevent, level, subspecies] and [lm, mobevent, start, mobevent, level, world] with inputs: [0, -123, 123]
+[16Jan2026 05:19:47.162] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, start, mobevent, level, world] and [lm, mobevent, start, mobevent, level, subspecies] with inputs: [0, -123, 123]
+[16Jan2026 05:19:47.188] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [sh_difficulty, add, server] and [sh_difficulty, add, targets] with inputs: [server]
+[16Jan2026 05:19:47.194] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [sh_difficulty, get, server] and [sh_difficulty, get, targets] with inputs: [server]
+[16Jan2026 05:19:47.198] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [sh_difficulty, set, server] and [sh_difficulty, set, targets] with inputs: [server]
+[16Jan2026 05:19:47.208] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16Jan2026 05:19:47.211] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16Jan2026 05:19:47.218] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16Jan2026 05:19:47.228] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16Jan2026 05:19:47.236] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16Jan2026 05:19:47.260] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, TenshiLib-1.16.3-1.3.0.jar, repurposed_structures_forge-3.4.7+1.16.5.jar, mowziesmobs-1.5.27.jar, BetterDungeons-1.16.4-1.2.1.jar, silent-lib-1.16.3-4.9.6.jar, dungeons_plus-1.16.5-1.1.5.jar, lycanitesmobs-1.16.5-2.3.3.8.jar, curios-forge-1.16.5-4.1.0.0.jar, Patchouli-1.16.4-53.3.jar, Clumps-6.0.0.28.jar, FastWorkbench-1.16.5-4.6.2.jar, Placebo-1.16.5-4.7.1.jar, AutoRegLib-1.6-49.jar, Artifacts-1.16.5-2.10.5.jar, YungsApi-1.16.4-Forge-13.jar, DungeonCrawl-1.16.5-2.3.12.jar, MutantBeasts-1.16.4-1.1.3.jar, FastFurnace-1.16.5-4.5.0.jar, Apotheosis-1.16.5-4.8.9A0.jar, Project_MMO-1.16.5-3.69.0.jar, ferritecore-2.1.1-forge.jar, AI-Improvements-1.16.5-0.5.0.jar, cloth-config-4.17.101-forge.jar, forge-1.16.5-36.2.42-universal.jar, Quark-r2.4-322.jar, ScalingHealth-1.16.5-4.1.5+11.jar, improvedmobs-1.16.5-1.10.13.jar, expandability-2.0.1-forge.jar, geckolib-forge-1.16.5-3.0.106.jar, betterendforge-1.16.5-1.6.3.jar, structure_gel-1.16.5-1.7.8.jar, DungeonsArise-1.16.5-2.1.49-beta.jar, jei-1.16.5-7.8.0.1009.jar
+[16Jan2026 05:19:53.277] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 13 recipes
+[16Jan2026 05:19:55.212] [Worker-Main-2/INFO] [placebo/]: Registered 22 additional loot tables.
+[16Jan2026 05:19:55.491] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1559 advancements
+[16Jan2026 05:19:55.504] [Worker-Main-2/INFO] [placebo/]: Registered 37 additional recipes.
+[16Jan2026 05:19:55.515] [Worker-Main-2/INFO] [Dungeon Crawl/]: Loading data...
+[16Jan2026 05:19:56.905] [Worker-Main-2/INFO] [Dungeon Crawl/]: Done.
+[16Jan2026 05:19:56.917] [Worker-Main-2/INFO] [Apotheosis : Deadly/]: Loaded 28 affix loot entries from resources.
+[16Jan2026 05:19:56.925] [Worker-Main-2/INFO] [Apotheosis : Deadly/]: Registered 6 boss gear sets.
+[16Jan2026 05:19:56.942] [Worker-Main-2/INFO] [Apotheosis : Deadly/]: Loaded 6 boss items from resources.
+[16Jan2026 05:19:56.952] [Worker-Main-2/INFO] [Apotheosis : Deadly/]: Loaded 8 spawner items from resources.
+[16Jan2026 05:19:57.211] [Worker-Main-2/INFO] [Apotheosis : Enchantment/]: Registered 18 enchanting_stats.
+[16Jan2026 05:19:57.226] [Worker-Main-2/INFO] [Apotheosis : Village/]: Loaded 13 normal and 13 rare Wandering Trader trade options.
+[16Jan2026 05:20:04.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[16Jan2026 05:20:04.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[16Jan2026 05:20:04.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[16Jan2026 05:20:04.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[16Jan2026 05:20:04.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[16Jan2026 05:20:04.732] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[16Jan2026 05:20:04.949] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16Jan2026 05:20:04.949] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[16Jan2026 05:20:04.949] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16Jan2026 05:20:04.949] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[16Jan2026 05:20:05.328] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/entity/merchant/villager/VillagerTrades$EnchantedBookForEmeraldsTrade
+[16Jan2026 05:20:05.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[16Jan2026 05:20:05.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[16Jan2026 05:20:14.649] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Jan2026 05:20:14.650] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Jan2026 05:20:14.650] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Jan2026 05:20:14.651] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Jan2026 05:20:14.652] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Jan2026 05:20:14.653] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Jan2026 05:20:14.655] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Jan2026 05:20:14.658] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Jan2026 05:20:14.659] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Jan2026 05:20:14.661] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Jan2026 05:20:14.664] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Jan2026 05:20:14.665] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Jan2026 05:20:14.665] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Jan2026 05:20:14.665] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Jan2026 05:20:14.665] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Jan2026 05:20:14.665] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Jan2026 05:20:14.668] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Jan2026 05:20:14.674] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Jan2026 05:20:14.693] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Jan2026 05:20:15.192] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 13%
+[16Jan2026 05:20:15.763] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 80%
+[16Jan2026 05:20:16.698] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 11007 ms
+[16Jan2026 05:20:16.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.716s)! For help, type "help"
+[16Jan2026 05:20:19.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[16Jan2026 05:20:28.420] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2e57ed01
+[16Jan2026 05:20:28.551] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[16Jan2026 05:20:28.563] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[16Jan2026 05:20:28.567] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: NxzTap[/127.162.193.41:46835] logged in with entity id 229 at (2107.1311650788543, 78.4985594089882, -1582.4711926336893)
+[16Jan2026 05:20:28.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NxzTap joined the game
+[16Jan2026 05:20:29.076] [Server thread/INFO] [harmonised.pmmo.ProjectMMOMod/]: Project MMO version: "3.69.0" Latest: "3.67"
+[16Jan2026 05:20:29.321] [Thread-13/INFO] [com.lycanitesmobs.LycanitesMobs/]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 11ea941a-24f4-3d99-9d69-58f7109ec1b1.
+[16Jan2026 05:20:47.903] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 0b92a549-c579-4cd1-8b19-06361c42fa68. Existing betterendforge:silk_moth#301, new: betterendforge:silk_moth#303
+[16Jan2026 05:20:49.615] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: NxzTap moved too quickly! 1.9494420616970274,2.049217706693156,-10.351005255999098
+[16Jan2026 05:20:50.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15826ms or 316 ticks behind
+[16Jan2026 05:20:57.583] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: NxzTap moved too quickly! -6.039798680219974,0.0,-8.13804803426956
+[16Jan2026 05:21:07.533] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: NxzTap moved too quickly! -5.728660670344198,0.0,-8.227828637326411
+[16Jan2026 05:21:12.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6967ms or 139 ticks behind
+[16Jan2026 05:21:29.650] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: NxzTap moved too quickly! -7.107444674413273,0.0,-7.514994739964095
+[16Jan2026 05:21:30.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2589ms or 51 ticks behind
+[16Jan2026 05:21:34.015] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: NxzTap moved too quickly! -9.76025744737558,0.0,-2.8741486316600913
+[16Jan2026 05:21:39.514] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: NxzTap moved too quickly! -10.243976708644595,0.0,-1.3347481820551366
+[16Jan2026 05:21:56.763] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: NxzTap moved too quickly! 4.859511429532631,0.0,9.073897459720456
+[16Jan2026 05:21:56.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7739ms or 154 ticks behind
+[16Jan2026 05:22:02.016] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: NxzTap moved too quickly! 8.431722710515487,0.0,5.417148436742536
+[16Jan2026 05:22:21.870] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CombatRules#getDamageAfterMagicAbsorb
+[16Jan2026 05:25:05.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NxzTap: Teleported NxzTap to 888.5, 68.5, 1098.5]
+[16Jan2026 05:25:34.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NxzTap: Teleported NxzTap to 83.5, 68.5, -313.5]
+[16Jan2026 05:25:51.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NxzTap: Set own game mode to Survival Mode]
+[16Jan2026 05:26:03.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6689ms or 133 ticks behind
+[16Jan2026 05:27:16.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NxzTap: Set own game mode to Spectator Mode]
+[16Jan2026 05:29:22.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NxzTap: Set own game mode to Creative Mode]
+[16Jan2026 05:30:21.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NxzTap: Set own game mode to Survival Mode]
+[16Jan2026 05:30:46.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NxzTap: Set own game mode to Spectator Mode]
+[16Jan2026 05:31:16.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NxzTap: Set own game mode to Creative Mode]
+[16Jan2026 05:31:30.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NxzTap: Set own game mode to Survival Mode]
+[16Jan2026 05:31:53.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NxzTap: Set own game mode to Spectator Mode]
+[16Jan2026 05:32:04.279] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: NxzTap moved too quickly! 4.106218481425842,5.250000208616257,8.091897433360145
+[16Jan2026 05:33:42.557] [Server thread/INFO] [Scaling Health/]: Blight Silex Lvl 2 has died
+[16Jan2026 05:33:43.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NxzTap: Set own game mode to Survival Mode]
+[16Jan2026 05:34:29.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NxzTap: Set own game mode to Creative Mode]
+[16Jan2026 05:37:03.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NxzTap: Set the time to 13000]
+[16Jan2026 05:54:00.588] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+[16Jan2026 05:54:00.588] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at org.jline.terminal.impl.AbstractPosixTerminal.getAttributes(AbstractPosixTerminal.java:46)
+[16Jan2026 05:54:00.589] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at org.jline.terminal.impl.AbstractTerminal.enterRawMode(AbstractTerminal.java:117)
+[16Jan2026 05:54:00.589] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at org.jline.reader.impl.LineReaderImpl.handleSignal(LineReaderImpl.java:1043)
+[16Jan2026 05:54:00.589] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at org.jline.terminal.impl.AbstractTerminal.raise(AbstractTerminal.java:81)
+[16Jan2026 05:54:00.589] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at org.jline.terminal.impl.PosixSysTerminal.lambda$handle$1(PosixSysTerminal.java:65)
+[16Jan2026 05:54:00.589] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at org.jline.utils.Signals.lambda$register$1(Signals.java:52)
+[16Jan2026 05:54:00.589] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at com.sun.proxy.$Proxy36.handle(Unknown Source)
+[16Jan2026 05:54:00.589] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at jdk.unsupported/sun.misc.Signal$InternalMiscHandler.handle(Signal.java:198)
+[16Jan2026 05:54:00.589] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:220)
+[16Jan2026 05:54:00.589] [SIGCONT handler/INFO] [STDERR/]: [java.lang.Thread:dispatchUncaughtException:1997]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[16Jan2026 05:54:00.588] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54) ~[jline-3.12.1.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:650) ~[jline-3.12.1.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-3.12.1.jar:?]
+	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:84) ~[?:?]
+Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42) ~[jline-3.12.1.jar:?]
+	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-3.12.1.jar:?]
+	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-3.12.1.jar:?]
+	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-3.12.1.jar:?]
+	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-3.12.1.jar:?]
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-3.12.1.jar:?]
+	... 4 more
+[16Jan2026 05:54:00.589] [SIGCONT handler/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1059]: Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+[16Jan2026 05:54:00.591] [SIGCONT handler/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1059]: 	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42)
+[16Jan2026 05:54:00.592] [SIGCONT handler/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1059]: 	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175)
+[16Jan2026 05:54:00.593] [SIGCONT handler/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1059]: 	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87)
+[16Jan2026 05:54:00.593] [SIGCONT handler/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1059]: 	at org.jline.terminal.impl.AbstractPosixTerminal.getAttributes(AbstractPosixTerminal.java:44)
+[16Jan2026 05:54:00.568] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NxzTap lost connection: Disconnected
+[16Jan2026 05:54:00.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NxzTap left the game
+[16Jan2026 05:54:00.594] [SIGCONT handler/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1059]: 	... 9 more
+[16Jan2026 05:54:00.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Jan2026 05:54:00.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Jan2026 05:54:00.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Jan2026 05:54:00.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Jan2026 05:54:02.019] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Jan2026 05:54:02.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Jan2026 05:54:02.020] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Jan2026 05:54:02.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Jan2026 05:54:02.024] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Jan2026 05:54:02.066] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Jan2026 05:54:02.084] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Jan2026 05:54:02.087] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
